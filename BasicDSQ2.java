@@ -42,7 +42,7 @@ class ArmstrongNumBetweenRange
         }
     }
 }
-public class A1Q2
+public class BasicDSQ2
 {
 
     public static void main(String[] args) {
